@@ -8,7 +8,6 @@
     <li>JAVA (Intermediate)</li>
     <li>Python (Beginner)</li>
     <li>Ruby (Beginner) </li>
-    <li>Swift (Beginner) </li>
 </ul>
 <strong><h5>⚡How to contact me</h5></strong>
 <ul>
