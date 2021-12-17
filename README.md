@@ -2,7 +2,7 @@
 
 <strong><h3>Changyoung, Oh (Ryan Oh) -- @madhandz5</h3></strong>
 
-<strong><h5>🔭Languages</h5></strong>
+<strong><h5> ⚡ Skills </h5></strong>
 <ul>
     <li>C# (Intermediate) </li>
     <li>JAVA (Intermediate)</li>
@@ -18,7 +18,7 @@
     <li>-express (Beginner) </li>
     <li>-nest.js (Beginner) </li>
 </ul>
-<strong><h5>⚡How to contact me</h5></strong>
+<strong><h5>🤔 How to contact me</h5></strong>
 <ul>
     <li>LinkedIn : https://www.linkedin.com/in/changyoung-oh-a87258166/</li>
     <li>facebook : https://www.facebook.com/madhandz5 </li>
