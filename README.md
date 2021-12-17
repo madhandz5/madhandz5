@@ -6,13 +6,17 @@
 <ul>
     <li>C# (Intermediate) </li>
     <li>JAVA (Intermediate)</li>
+    <li>Springboot (Intermediate)</li>
+    <li>Hibernate ORM (JPA) (Intermediate)</li>
+    <li>Play framework2 (Beginner)</li>
     <li>Python (Beginner)</li>
-    <li>Ruby (Beginner) </li>
     <br/>
     <li>Javascript (Intermediate) </li>
     <li>-NODE.JS (Intermediate) </li>
     <li>-React.JS (Intermediate) </li>
-    <li>-Vue.JS (Intermediate) </li>
+    <li>-Vue.JS (Beginner) </li>
+    <li>-express (Beginner) </li>
+    <li>-nest.js (Beginner) </li>
 </ul>
 <strong><h5>⚡How to contact me</h5></strong>
 <ul>
