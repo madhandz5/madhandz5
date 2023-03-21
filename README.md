@@ -2,21 +2,31 @@
 
 <strong><h3>Changyoung, Oh (Ryan Oh) -- @madhandz5</h3></strong>
 
-<strong><h5> ⚡ Skills </h5></strong>
+<strong><h5> ⚡ Languages </h5></strong>
 <ul>
-    <li>C# (Intermediate) </li>
-    <li>JAVA (Intermediate)</li>
-    <li>Springboot (Intermediate)</li>
-    <li>Hibernate ORM (JPA) (Intermediate)</li>
-    <li>Play framework2 (Beginner)</li>
-    <li>Python (Beginner)</li>
+    <li>C++ </li>
+    <li>C# </li>
+    <li>JAVA</li>
+    <li>PYTHON</li>
+    <li>Javascript</li>
+    <li>NODE</li>
+</ul>
+
+<strong><h5> ⚙️ Frameworks & Libraries </h5></strong>
+<ul>
+    <li>Spring Boot</li>
+    <li>.NET</li>
+    <li>Play framework2</li>
+    <li>Hibernate ORM</li>
     <br/>
-    <li>Javascript (Intermediate) </li>
-    <li>-NODE.JS (Intermediate) </li>
-    <li>-React.JS (Intermediate) </li>
-    <li>-Vue.JS (Beginner) </li>
-    <li>-express (Beginner) </li>
-    <li>-nest.js (Beginner) </li>
+    <li>-React.JS</li>
+    <li>-Vue.JS</li>
+    <li>-express</li>
+    <li>-nest.js</li>
+</ul>
+<ul>
+
+
 </ul>
 <strong><h5>🤔 How to contact me</h5></strong>
 <ul>
